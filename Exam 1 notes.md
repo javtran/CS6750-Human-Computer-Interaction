@@ -398,6 +398,11 @@
         *   Do this again and again.
         *   Eventually, our prototypes develop to the point of being designs ready for launch, but the cycle doesn’t end there.
         *   We keep iterating after launch, with live users as the evaluators.
+*   **AI in the Design Life Cycle**
+    *   AI can be used to gather a baseline for user perspectives. Can pretend like user and ask for needs. Can give initial ideas for what you want to explore. AI might constrain your thinking too early. Focus on ideas the AI gave you that you don't ask broader questions to see more than what's suggested.
+    *   AI can be a great tool to practice with as if it's your user. i.e. rehearse giving AI instructions on using your interface to see if it understands what you are asking.
+    *   There are AI tools that help accomplish certain parts of design life cycle faster. i.e. Prototyping.
+    *   Getting information from AI is never a substitute for getting information from real users.
 *   **Quantitative data**: observations described or summarized numerically
     *   Supports formal tests, comparisons, and conclusions
     *   Provides the “what”

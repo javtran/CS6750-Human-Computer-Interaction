@@ -537,6 +537,18 @@
 *   The biggest mistake a designer can make is jumping to the design process before understanding the user or the task.
 *   We want to develop a deep understanding of the task they’re trying to accomplish and why.
 *   As we do this, it’s important to try to come in with as few preconceived notions as possible, but we should enter with some understanding of what data we want to gather
+*   We are going to:
+    * Defining general questions throughout the data gathering process about who the user is, what they're doing, what they need
+    * Generating answers to those question to better understand the user
+    * Formalizing models of the user (data we gather into a shareable model of the task and a list of requirements for our interface)
+*   These are questions we ultimately want to answer throught data gathering:
+    * Who are the users? What are their ages, gneders, levels of expertise?
+    * Where are the users? What is their environment?
+    * What is the context of the task? What else is competing for users' attention?
+    * What are their goals? What are they trying to accomplish?
+    * What do they need? What are the physical objects? What info do they need? What collaborators do they need?
+    * What are their tasks? What are they doing physically, cognitively, socially?
+    * What are the subtasks? How do they accomplish those subtasks?
 *   The first thing we need to do is **identify the problem space**:
     *   Where is the task occurring?
     *   What else is going on?

@@ -1204,7 +1204,7 @@
 *   We want to help prevent routine errors by leveraging consistent practices. We want to let our interface offload some of the demands on working memory from the user to avoid memory lapse errors. And we want to leverage good representations to help users develop the right mental models to minimize rule-based and knowledge-based errors. And while errors are inevitable, we should make sure to leverage the tolerance principle to make sure their repercussions can never be too bad.
 *   **Learned helplessness**: when the user working with the interface learns that they’re helpless to actually use the system.
     *   When there is no discernible interaction between the input and the output
-    *   When the user acts in the system over and over and over again, but never receives input that helps them? Never even receives input that makes them think they’re making progress
+    *   When the user acts in the system over and over and over again, but never receives output that helps them? Never even receives output/input that makes them think they’re making progress
 *   **Expert blindspot**
     *   Generally, when we’re developing interfaces, we’re going to be experts in the domain. It’s rare that you design an interface to help people do something you don’t know how to do yourself. But as a result, there’s risk for expert blind spot.
     *   When you’re an expert in something, there are parts of the task that you do subconsciously, without even thinking about them. And yet if we were suddenly asked to train someone else, there are lots of things we’d forget to say, or lots of things we would think would be obvious. 
